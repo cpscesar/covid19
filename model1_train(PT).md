@@ -1,5 +1,5 @@
 ---
-Titulo: Modelo 1 - Tutorial 2 - Detecção automática de casos de COVID-19 a partir de imagens de radiografia de tórax
+Título: Modelo 1 - Tutorial 2 - Detecção automática de casos de COVID-19 a partir de imagens de radiografia de tórax
 Subtítulo: Treinamento do modelo e exposição dos resultados - Modelo 1
 tags: [COVID]
 ---
