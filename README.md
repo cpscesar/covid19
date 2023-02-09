@@ -2,7 +2,7 @@
 
 This repository has files that aim to present the codes in Python used to test the automation of the detection of COVID-19 in lung X-rays.
 
-The paper of this study can be seen [here](https://arxiv.org/abs/2007.05494)
+The paper of this study can be seen [here](https://arxiv.org/abs/2007.05494)<br/>
 The publication on Medium about the study can be seen [here](https//)
 
 The construction of the database aimed to maximize the number of training images. For this, two different sources
@@ -29,7 +29,7 @@ Considering the scarcity of Portuguese tutorials doing this type of training, th
 
 Este repositório possui arquivos que visam apresentar os códigos em Python utilizados para testar a automação da detecção do COVID-19 em radiografias pulmonares.
 
-O papel deste estudo pode ser visto [aqui](https://arxiv.org/abs/2007.05494)
+O papel deste estudo pode ser visto [aqui](https://arxiv.org/abs/2007.05494)<br/>
 A publicação no Medium sobre o estudo pode ser vista [aqui](https//)
 
 A construção do banco de dados visou maximizar o número de imagens de treinamento. Para isso, duas fontes diferentes
