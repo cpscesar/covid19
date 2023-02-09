@@ -6,10 +6,8 @@ The paper of this study can be seen [here](https://arxiv.org/abs/2007.05494)
 The publication on Medium about the study can be seen [here](https//)
 
 The construction of the database aimed to maximize the number of training images. For this, two different sources
-were used: one containing X-ray images of the chest of individuals infected with COVID-19 [link] (
-https://github.com/ieee8023/covid-chestxray-dataset) and the
-other, with the same type of image, but of lungs of individuals without any infection [link] (
-https://data.mendeley.com/datasets/rscbjbr9sj/2)
+were used: one containing X-ray images of the chest of individuals infected with COVID-19 [link] (https://github.com/ieee8023/covid-chestxray-dataset) and the
+other, with the same type of image, but of lungs of individuals without any infection [link] (https://data.mendeley.com/datasets/rscbjbr9sj/2)
 
 In detail, the files that are in this repository that contains the python codes of the analyzes carried out in the paper are:
 
