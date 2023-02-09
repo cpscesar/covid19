@@ -33,10 +33,10 @@ O papel deste estudo pode ser visto [aqui](https://arxiv.org/abs/2007.05494)
 A publicação no Medium sobre o estudo pode ser vista [aqui](https//)
 
 A construção do banco de dados visou maximizar o número de imagens de treinamento. Para isso, duas fontes diferentes
-foram utilizados: um contendo imagens de raios X do tórax de indivíduos infectados com COVID-19 [link] (
-https://github.com/ieee8023/covid-chestxray-dataset) e o
-outro, com o mesmo tipo de imagem, mas de pulmões de indivíduos sem nenhuma infecção [link] (
-https://data.mendeley.com/datasets/rscbjbr9sj/2)
+foram utilizados: um contendo imagens de raios X do tórax de indivíduos infectados com COVID-19 ([link](
+https://github.com/ieee8023/covid-chestxray-dataset)) e o
+outro, com o mesmo tipo de imagem, mas de pulmões de indivíduos sem nenhuma infecção ([link](
+https://data.mendeley.com/datasets/rscbjbr9sj/2))
 
 Em detalhes, os arquivos que estão neste repositório que contém os códigos python das análises realizadas no artigo são:
 
